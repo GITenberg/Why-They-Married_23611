@@ -1,0 +1,32 @@
+_repo: Why-They-Married_23611
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+description: ''
+gutenberg_issued: '2007-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23611'
+  lccn: 06038900
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Marriage -- Humor'
+- !lcsh 'Wit and humor, Pictorial'
+- !lcc 'PS'
+- !lcsh 'Humorous poetry'
+title: Why They Married
+url: http://www.gutenberg.org/ebooks/23611
